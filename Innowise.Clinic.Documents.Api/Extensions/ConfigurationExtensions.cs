@@ -3,7 +3,6 @@ using Innowise.Clinic.Documents.Services.BlobService.Implementations;
 using Innowise.Clinic.Documents.Services.BlobService.Interfaces;
 using Innowise.Clinic.Documents.Services.MassTransitService.Consumers;
 using MassTransit;
-using Microsoft.Extensions.Azure;
 
 namespace Innowise.Clinic.Documents.Api.Extensions;
 
